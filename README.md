@@ -1,0 +1,1 @@
+# snapshot-of-directory-and-comparision
