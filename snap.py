@@ -32,7 +32,7 @@ Enter the file extension for your snapshot files
   extension = raw_input("\t\t")
   snapshothelper.listSnapshots(extension)
  elif choice == '3':
-  os.system('cls')
+  os.system('clear')
   print '''
 COMPARE SNAPSHOTS
 ====================================
